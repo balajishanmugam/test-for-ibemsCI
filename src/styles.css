@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a4b357+0,75890c+100;Olive+3D+%233 */
+background: #a4b357; /* Old browsers */
+background: -moz-linear-gradient(left, #a4b357 0%, #75890c 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, #a4b357 0%,#75890c 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, #a4b357 0%,#75890c 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a4b357', endColorstr='#75890c',GradientType=1 ); /* IE6-9 */
+color: white;
+}
